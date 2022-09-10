@@ -5,6 +5,11 @@ package com.example;
  */
 public class Main {
     public static void main(String... arg) {
-        System.out.println("Hola mundo!");
+        System.out.println("Hola mundo con Java!");
+
+    }
+
+    public void newMethod() {
+
     }
 }
